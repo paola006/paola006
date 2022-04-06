@@ -1,0 +1,3 @@
+- 👋 olá,meu nome é @paola006
+- 👀 eu estou interessada em aprender a programar novas linguagens 
+- 🌱 estou aprendendo a programar recentemente a linguagem de JavaScript e scratch
